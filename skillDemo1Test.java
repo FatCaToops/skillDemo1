@@ -11,6 +11,6 @@ import org.junit.*;
 public class skillDemo1Test {
     @Test
     public void testSubstraction(){
-        assertEquals(4, skillDemo1.substraction(7, 2));
+        assertEquals(5, skillDemo1.substraction(7, 2));
     }
 }
